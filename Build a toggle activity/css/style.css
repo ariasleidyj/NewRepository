@@ -9,8 +9,8 @@
   display: none;
 }
 #toggle {
-  background-color: #ee9696;
-  padding: 15px;
+  background-color: #fa8585;
+  padding: 10px;
   color: white;
   font-weight: 500;
   cursor: pointer; 
@@ -23,7 +23,7 @@ ul {
 }
 li {
   margin:0;
-  padding: 15px;
+  padding: 10px;
   border: 1px solid black;
 }
 img {
